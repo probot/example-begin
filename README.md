@@ -1,2 +1,0 @@
-# example-begin
-Begin app
