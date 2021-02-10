@@ -6,7 +6,7 @@ nock.disableNetConnect();
 
 const { Probot, ProbotOctokit } = require("probot");
 
-const app = require("./app");
+const app = require("./src/http/post-api-github-webhooks/app");
 
 /** @type {import('probot').Probot */
 let probot;

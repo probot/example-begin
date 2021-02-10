@@ -1,7 +1,7 @@
 const arc = require("@architect/functions");
 const { createProbot } = require("probot");
 
-const app = require("../../../app");
+const app = require("./app");
 
 const probot = createProbot();
 
