@@ -1,6 +1,6 @@
-# Probot & AWS Lambda example
+# Probot & Begin example
 
-This repository is an example of how to deploy the "Hello, World" of probot apps to [AWS Lambda](https://aws.amazon.com/lambda/) using [serverless](https://www.serverless.com/).
+This repository is an example of how to deploy the "Hello, World" of probot apps to [Begin](https://begin.com/).
 
 [![Begin build status](https://buildstatus.begin.app/dream-zdj/status.svg)](https://begin.com)
 
