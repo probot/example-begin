@@ -14,7 +14,7 @@
     "smee-client": "^1.2.2",
     "uvu": "^0.5.1"
   },
-  "repository": "https://github.com/probot/example-begin",
+  "repository": "github:probot/example-begin",
   "author": "Gregor Martynus (https://github.com/gr2m)",
   "license": "ISC",
   "release": {
