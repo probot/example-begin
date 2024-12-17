@@ -8,7 +8,7 @@
     "test": "node test.js"
   },
   "devDependencies": {
-    "@architect/sandbox": "^5.0.0",
+    "@architect/sandbox": "^6.0.0",
     "nock": "^13.0.7",
     "probot": "^12.0.0",
     "smee-client": "^1.2.2",
