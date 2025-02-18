@@ -2,6 +2,6 @@
   "name": "http-post-api-github-webhooks",
   "dependencies": {
     "@architect/functions": "^5.0.0",
-    "probot": "^12.0.0"
+    "probot": "^13.0.0"
   }
 }
